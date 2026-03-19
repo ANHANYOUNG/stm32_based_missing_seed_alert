@@ -1,0 +1,47 @@
+# presentations / media
+발표자료/
+*.pptx
+*.mov
+*.avi
+*.zip
+
+# STM32 build outputs
+Debug/
+Release/
+build/
+*.o
+*.d
+*.su
+*.elf
+*.axf
+*.map
+*.hex
+*.bin
+*.list
+
+# STM32 local settings
+.settings/
+.metadata/
+*.launch
+
+# Altium generated outputs
+**/Project Outputs for */
+**/History/
+**/__Previews/
+*.DRR
+*.EXTREP
+*.APR_LIB
+*.apr
+*.G1
+*.G2
+*.GBL
+*.GBO
+*.GBP
+*.GBS
+*.GM
+*.GTL
+*.GTO
+*.GTP
+*.GTS
+*.LDP
+*.REP
